@@ -6,7 +6,7 @@ To run this locally, install npm
 * $npm install
 * $npm run start
 # Check this app
-[https://pizza-app-paul.herokuapp.com](https://my-pizttttzza-order.onrender.com/)
+(https://my-pizttttzza-order.onrender.com/)
 # Demo
 ![Main page](https://user-images.githubusercontent.com/86964094/127667546-afd58c17-e99d-4249-ac00-a144232b6514.JPG)
 ![Order_page](https://user-images.githubusercontent.com/86964094/127667551-1a25418a-e803-440e-9517-ba4230c3a749.JPG)
